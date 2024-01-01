@@ -8,8 +8,8 @@ Here is a list of what I know and how experienced I am with the knowledge:
 
 ### Programming Languages
 
-    - Java [<img align="center" alt="Java" src="https://img.shields.io/badge/Java%20logo%20here-EE7D00?style=for-the-badge&logoColor=white"/>][blog]
-    - C#
+- Java [<img align="center" alt="Java" src="https://img.shields.io/badge/Java%20logo%20here-EE7D00?style=for-the-badge&logoColor=white"/>][blog]
+- C#
 <!--
 **Justophil/JustoPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

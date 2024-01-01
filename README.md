@@ -8,8 +8,8 @@ Here is a list of the knowledge that I know <!--and how experienced I am with th
 
 ### OOP Languages
 
-- Java <img align="center" alt="Java" src="https://img.shields.io/badge/Java%20logo%20here-EE7D00?style=for-the-badge&logoColor=white"/>[blog]
-- C# <img align="center" alt="C#" src="https://img.shields.io/badge/-6800E5?style=for-the-badge&logo=c#&logoColor=white"/>[blog]
+- Java <img align="center" alt="Java" src="https://img.shields.io/badge/Java%20logo%20here-EE7D00?style=for-the-badge&logoColor=white"/>
+- C# <img align="center" alt="C#" src="https://img.shields.io/badge/-512BD4?style=for-the-badge&logo=c%23&logoColor=white"/>
 <!--
 **Justophil/JustoPhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

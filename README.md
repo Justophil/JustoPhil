@@ -18,6 +18,7 @@ Here is a list of the knowledge that I know <!--and how experienced I am with th
 - <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> **Library for html,css, and js**
 - <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 - <img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+- <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 - <img align="center" alt="dash_plotly" src="https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 - <img align="center" alt="slim_framework" src="https://img.shields.io/badge/Slim-78B43A?style=for-the-badge&logo=&logoColor=white"/>
 

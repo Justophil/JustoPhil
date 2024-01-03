@@ -42,12 +42,15 @@ Here is a list of the knowledge that I know <!--and how experienced I am with th
 
 - <img align="center" alt="bash" src="https://img.shields.io/badge/Bash%20GNU-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white"/>
 - <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+- <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 ### IDEs
 
 - <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 - <img align="center" alt="jetbrains" src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
 - <img align="center" alt="netbeans" src="https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white"/>
+- <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino%20IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white"/>
+- <img align="center" alt="replit" src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
 
 ### VMs
 

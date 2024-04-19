@@ -30,6 +30,7 @@ Here is a list of the knowledge that I know <!--and how experienced I am with th
 - <img align="center" alt="xml" src="https://img.shields.io/badge/XML-aaaaaa?style=for-the-badge&logo=&logoColor=white"/>
 - <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 - <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+- sql
 
 ### Applications Dev
 

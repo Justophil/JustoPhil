@@ -68,4 +68,6 @@ Here is a list of the knowledge that I know <!--and how experienced I am with th
 - windows
 - mac
 - linux
-- Raspberry Pi/Desbian
+ - kali
+ - ubuntu 
+ - Raspberry Pi/Desbian

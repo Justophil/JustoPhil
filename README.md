@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a student studying in computer science and technology in Vanier College, almost graduating. I am person who likes playing video games, and coding anything that I find interesting to do.
+I am a student studying in computer science. I am person who likes playing video games, and coding anything that I find interesting to do.
 
 ## My knowledge
 

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a student studying in computer science, going for software engineering. I am person who likes playing video games, and coding anything that I find interesting to do.
+I am a student that graduated in computer science, now going for software engineering. I am person who likes playing video games, and coding anything that I find interesting to do.
 
 ## My knowledge
 
